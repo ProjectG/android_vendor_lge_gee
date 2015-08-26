@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/gee/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/lge/gee/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
-    vendor/lge/gee/proprietary/etc/DxHDCP.cfg:system/etc/DxHDCP.cfg \
     vendor/lge/gee/proprietary/etc/firmware/tzapps.b00:system/etc/firmware/tzapps.b00 \
     vendor/lge/gee/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
     vendor/lge/gee/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
